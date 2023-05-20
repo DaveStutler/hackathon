@@ -1,0 +1,11 @@
+{
+    "name": "RMP Extension",
+    "version": "1.0.0",
+    "description": "A tooltip to display highlighted professor's information on RateMyProfessor",
+    "manifest_version": 3,
+    "author": "Group 78",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "RMP Extension"
+    }
+}
