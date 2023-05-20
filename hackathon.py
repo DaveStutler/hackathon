@@ -1,1 +1,1 @@
-print("Shuaib is smart")
+print("Checking the push")
