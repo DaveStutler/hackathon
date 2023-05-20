@@ -1,1 +1,1 @@
-print("Shuaib is Seggggcccceeee")
+print("Shuaib is smart")
